@@ -18,3 +18,5 @@ The algorithm implements a linked list to keep a running list of the most 10 rec
 "times until sunburn occurs", taking the average time to burn from this running
 list to inform the user of risk. Risk is informed  by blinking a neopixel.
 
+Relevant images can be seen in the issues section of this repository. 
+
